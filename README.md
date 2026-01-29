@@ -2,54 +2,6 @@
 
 A full-stack e-commerce web application with secure authentication, role-based access control, shopping cart functionality, and order management.
 
-![Node.js](https://img.shields.io/badge/Node.js-v14+-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-v5.0+-green)
-![Express.js](https://img.shields.io/badge/Express.js-v4.18-blue)
-
-## ✨ Features
-
-### 🔐 Authentication & Authorization
-- User registration and login with JWT authentication
-- Password encryption using bcrypt
-- Role-based access control (Admin/User)
-- Persistent sessions with token management
-- Secure logout functionality
-
-### 👨‍💼 Admin Panel
-- **Dashboard Analytics**
-  - Total products count
-  - Total orders count
-  - Total users count
-  - Total revenue statistics
-- **Product Management**
-  - Create, Read, Update, Delete (CRUD) operations
-  - Image URL support
-  - Stock management
-  - Product availability toggle
-- **Order Management**
-  - View all customer orders
-  - Update order status (Pending → Processing → Shipped → Delivered)
-  - Customer details viewing
-
-### 🛒 User Shopping Experience
-- Browse available products
-- Product filtering (in-stock items only)
-- Shopping cart functionality
-  - Add items to cart
-  - Update quantities (+/-)
-  - Remove items
-  - Real-time total calculation
-- Checkout process with customer details
-- Order placement
-
-### 🎨 UI/UX Features
-- Responsive design (mobile, tablet, desktop)
-- Modern gradient UI
-- Smooth animations and transitions
-- Toast notifications for user feedback
-- Modal dialogs for forms
-- Loading states and error handling
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -90,7 +42,7 @@ mongod --version
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-project.git
+git clone https://github.com/lishanthreddy/ecommerce-project.git
 cd ecommerce-project
 ```
 
@@ -151,7 +103,7 @@ The server will start at `http://127.0.0.1:3000`
 
 ## ⚙️ Configuration
 
-### Environment Variables (Optional)
+### Environment Variables
 
 Create a `.env` file in the root directory:
 
@@ -245,7 +197,6 @@ ecommerce-project/
 ├── public/
 │   └── index.html          # Frontend application
 ├── README.md               # Project documentation
-├── .gitignore             # Git ignore file
 └── .env                   # Environment variables (optional)
 ```
 
@@ -309,26 +260,6 @@ ecommerce-project/
 | Method | Endpoint | Description | Access |
 |--------|----------|-------------|--------|
 | GET | `/api/admin/stats` | Get dashboard stats | Admin |
-
-## 📸 Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Product Management
-![Product Management](screenshots/product-management.png)
-
-### User Shop
-![User Shop](screenshots/user-shop.png)
-
-### Shopping Cart
-![Shopping Cart](screenshots/shopping-cart.png)
-
-### Checkout
-![Checkout](screenshots/checkout.png)
 
 ## 🧪 Testing
 
