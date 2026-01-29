@@ -6,23 +6,6 @@ A full-stack e-commerce web application with secure authentication, role-based a
 ![MongoDB](https://img.shields.io/badge/MongoDB-v5.0+-green)
 ![Express.js](https://img.shields.io/badge/Express.js-v4.18-blue)
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
-- [Testing](#testing)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## ✨ Features
 
 ### 🔐 Authentication & Authorization
