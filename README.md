@@ -2,6 +2,10 @@
 
 A full-stack e-commerce web application with secure authentication, role-based access control, shopping cart functionality, and order management.
 
+![Node.js](https://img.shields.io/badge/Node.js-v14+-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-v5.0+-green)
+![Express.js](https://img.shields.io/badge/Express.js-v4.18-blue)
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -103,7 +107,7 @@ The server will start at `http://127.0.0.1:3000`
 
 ## ⚙️ Configuration
 
-### Environment Variables
+### Environment Variables (Optional)
 
 Create a `.env` file in the root directory:
 
@@ -197,6 +201,7 @@ ecommerce-project/
 ├── public/
 │   └── index.html          # Frontend application
 ├── README.md               # Project documentation
+├── .gitignore             # Git ignore file
 └── .env                   # Environment variables (optional)
 ```
 
@@ -215,8 +220,6 @@ ecommerce-project/
 - User shop interface
 - Shopping cart
 - All JavaScript logic
-
-```
 
 ## 🐛 Troubleshooting
 
@@ -299,9 +302,9 @@ Error: Invalid or expired token
 
 For questions or support, please contact:
 
-- **Email:** lishanthreddy07@gmail.com
-- **GitHub:** [@lishanthreddy](https://github.com/lishanthreddy)
-- **LinkedIn:** [lishanthreddy](https://linkedin.com/in/lishanthreddy)
+- **Email:** your.email@example.com
+- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
 
 ## 📚 Resources
 
