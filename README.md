@@ -302,9 +302,9 @@ Error: Invalid or expired token
 
 For questions or support, please contact:
 
-- **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+- **Email:** lishanthreddy07@gmail.com
+- **GitHub:** [@lishanthreddy](https://github.com/lishanthreddy)
+- **LinkedIn:** [lishanthreddy](https://linkedin.com/in/lishanthreddy)
 
 ## 📚 Resources
 
