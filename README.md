@@ -218,25 +218,6 @@ ecommerce-project/
 
 ```
 
-### Using Postman
-
-1. Import the API collection
-2. Set environment variables
-3. Test each endpoint
-4. Verify responses
-
-### Test Credentials
-
-**Admin:**
-- Username: `admin`
-- Password: `admin123`
-- Role: Admin
-
-**User:**
-- Username: `user1`
-- Password: `user123`
-- Role: User
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
